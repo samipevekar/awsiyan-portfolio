@@ -17,7 +17,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/awsiyanwaghe",
   resume:
-    "https://drive.google.com/file/d/1GU2aSVGIKkD8sfVrYNLtMTwK2p7C_dAM/view?usp=drive_link",
+    "https://drive.google.com/file/d/1-Qbz-6f706ZIdiARdZXp4s70tD6E_u58/view?usp=drivesdk",
   twitter: "https://x.com/awsiyan_waghe",
   insta: "https://www.instagram.com/awsiyan_waghe/",
   leetcode: "https://leetcode.com/u/jcBd2SRsgw/",
